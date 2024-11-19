@@ -30,7 +30,7 @@ Program ini dirancang untuk mengumpulkan dan mengelola data nilai mahasiswa. Pen
 
 
 
-   Cara Penggunaan
+# Cara Penggunaan
 Menjalankan Program bash python program_nilai.py
 
 Input Data
